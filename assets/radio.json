@@ -1,0 +1,84 @@
+{
+    "radio": [
+        {
+            "id": 1,
+            "name": "99.3",
+            "tagline": "Nigeria Info",
+            "url": "https://www.nigeriainfo.fm/lagos/player/",
+            "order": 1,
+            "desc": "Let's Talk",
+            "image": "https://www.radio.net/images/broadcasts/de/4a/37188/1/c300.png",
+            "lang": "English"
+        },
+        {
+            "id": 2,
+            "name": "95.1",
+            "tagline": "Wazobia FM",
+            "url": "https://www.wazobiafm.com/lagos/player/",
+            "order": 2,
+            "desc": "Need a great start to the day with the latest hits from pop and world? Listen to what your heart desires and tune into the popular station Wazobia",
+            "image": "https://www.radio.net/images/broadcasts/c8/4c/37198/c300.png",
+            "lang": "English"
+        },
+        {
+            "id": 3,
+            "name": "98.5",
+            "tagline": "Soundcity Radio",
+            "url": "https://soundcity.tv/listenlagos/",
+            "order": 3,
+            "desc": "The new Youth radio broadcasting from Nigeria, powered by Music.",
+            "image": "https://www.radio.net/images/broadcasts/fb/da/40315/2/c300.png",
+            "lang": "English"
+        },
+        {
+            "id": 4,
+            "name": "96.9",
+            "tagline": "Cool FM",
+            "url": "https://www.coolfm.ng/lagos/player/",
+            "order": 4,
+            "desc": "The no. 1 Hit Radio Station Abuja in Nigeria.",
+            "image": "https://www.radio.net/images/broadcasts/64/32/35165/c300.png",
+            "lang": "English"
+        },
+        {
+            "id": 5,
+            "name": "101.9",
+            "tagline": "Sobi FM",
+            "url": "https://mixlr.com/users/7313600/embed",
+            "order": 5,
+            "desc": "Your number one radio station where excellence radiates",
+            "image": "https://sobifm.com/wp-content/uploads/2022/07/cropped-logos.jpeg",
+            "lang": "English"
+        },
+        {
+            "id": 6,
+            "name": "99.9",
+            "tagline": "The Beat FM",
+            "url": "https://atunwapodcasts.com/player/beatfmlagos.html",
+            "order": 6,
+            "desc": "The Beat of Lagos",
+            "image": "https://thebeat99.com/wp-content/uploads/2022/04/logo.png",
+            "lang": "English"
+        },
+        {
+            "id": 7,
+            "name": "102.3",
+            "tagline": "Max FM",
+            "url": "https://www.max1023.fm/",
+            "order": 7,
+            "desc": "MAX FM is your new home for the very best hit music for Lagos",
+            "image": "https://www.max1023.fm/wp-content/uploads/2020/07/MAX-LOGO-final-2.png",
+            "lang": "English"
+        },
+        {
+            "id": 8,
+            "name": "102.7",
+            "tagline": "Naija FM",
+            "url": "https://atunwapodcasts.com/player/naijafmlagos.html",
+            "order": 8,
+            "desc": "RADIO WEY DEY BURST BRAIN",
+            "image": "https://naija102.com/lagos/wp-content/uploads/2022/02/Naija_logo.png",
+            "lang": "English"
+        }
+    ]
+}
